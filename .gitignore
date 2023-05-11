@@ -145,7 +145,3 @@ dmypy.json
 
 .mypy_cache
 
-# миграции
-migrations/
-
-media/

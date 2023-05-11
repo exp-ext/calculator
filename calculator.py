@@ -102,5 +102,4 @@ if __name__ == '__main__':
         'ширина': 15.5,
         'высота': 5,
     }
-
     print(PatternCalculator(dict, pattern).evaluate())

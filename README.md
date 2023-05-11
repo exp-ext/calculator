@@ -1,5 +1,7 @@
 <h1>PatternCalculator</h1>
 
+<p align="center"><img src="https://github.com/exp-ext/calculator/blob/main/static/background.jpg" width="700" /></p>
+
 <p>The <code>PatternCalculator</code> class is a calculator that evaluates a mathematical expression using the given dictionary of variables and values. The class is initialized with two parameters, <code>dict</code> and <code>pattern</code>.</p>
 <p><code>dict</code> is a Python dictionary where the keys represent variable names and the values represent their corresponding values.</p>
 <p><code>pattern</code> is a string that contains the name of the expression and the expression itself, separated by a pipe (<code>|</code>). The expression can contain variables that are defined in the <code>dict</code>, as well as the standard mathematical operators <code>+</code>, <code>-</code>, <code>*</code>, and <code>/</code>.</p>

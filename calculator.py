@@ -4,7 +4,7 @@ OPERATORS = {
     '+': operator.add,
     '-': operator.sub,
     '*': operator.mul,
-    '/': operator.floordiv,
+    '/': operator.truediv,
 }
 
 

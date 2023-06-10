@@ -23,7 +23,7 @@
 
 ```python
 variables = {'a': 1, 'b': 2}
-pattern = 'expr | (a + b) * 2'
+pattern = 'expr | ( a + b ) * 2'
 calculator = PatternCalculator(variables, pattern)
 name, result = calculator.evaluate()
 print(f"{name}: {result}") # expr: 6.0
